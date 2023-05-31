@@ -67,7 +67,7 @@ nav {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url('./img/nav_mock.png');
+    background-image: url('../img/nav_mock.png');
     height: 64px;
     @include widthSettings();
   }
@@ -198,7 +198,7 @@ main {
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
-      background-image: url('./img/img_elec_at_work_3.jpg');
+      background-image: url('../img/img_elec_at_work_3.jpg');
     }
     .content {
       margin-top: -24px;
