@@ -1,1 +1,1 @@
-import './assets/openrent.scss'
+import '/openrent.scss'
